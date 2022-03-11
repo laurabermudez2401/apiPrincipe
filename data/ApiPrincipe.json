@@ -1,10 +1,11 @@
-{
-    "produts": [
+{"produts": [
       {
         "id": 1,
         "nombre": "Crown Sweatshirt",
         "precio": 80.00,
-        "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647032285/principef/mas/imgs_vpe1d5.png"
+        "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647039147/principef/Rectangle_1_qiajt5.png",
+        "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647039145/principef/Rectangle_2_zaogdv.png",
+        "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647039149/principef/Rectangle_4_zl0sw9.png",
       },
       {
         "id": 2,
