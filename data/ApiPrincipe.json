@@ -1,36 +1,36 @@
 {"produts": [
-      {
-        "id": 1,
-        "nombre": "Crown Sweatshirt",
-        "precio": 80.00,
-        "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647039147/principef/Rectangle_1_qiajt5.png",
-        "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647039145/principef/Rectangle_2_zaogdv.png",
-        "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647039149/principef/Rectangle_4_zl0sw9.png"
-      },
-      {
-        "id": 2,
-        "nombre": "Fresh Stripe Sweater",
-        "precio": 85.00,
-        "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647031347/principef/Frame_14_rvgoai.png",
-        "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647031345/principef/Frame_15_jxuyhy.png",
-        "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647031346/principef/Frame_16_fdhsrz.png"
-      },
-      {
-        "id": 3,
-        "nombre": "Fresh Black Tie-Dye Hoodie",
-        "precio": 75.00,
-        "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647031342/principef/Frame_17_oa9rxv.png",
-        "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647031343/principef/Frame_18_iuporm.png",
-        "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647031348/principef/Frame_19_b8t0js.png"
-      },
-      {
-        "id": 4,
-        "nombre": "Pose For It Tee",
-        "precio": 45.00,
-        "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647031348/principef/Frame_20_wmrr6i.png",
-        "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647031349/principef/Frame_21_zjyqzc.png",
-        "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647031343/principef/Frame_22_rcplh8.png"
-      }
-      
-    ]
+  {
+    "id": 1,
+    "nombre": "Crown Sweatshirt",
+    "precio": 80.00,
+    "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647039147/principef/Rectangle_1_qiajt5.png",
+    "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647039145/principef/Rectangle_2_zaogdv.png",
+    "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647039149/principef/Rectangle_4_zl0sw9.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Fresh Stripe Sweater",
+    "precio": 85.00,
+    "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647031347/principef/Frame_14_rvgoai.png",
+    "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647031345/principef/Frame_15_jxuyhy.png",
+    "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647031346/principef/Frame_16_fdhsrz.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Fresh Black Tie-Dye Hoodie",
+    "precio": 75.00,
+    "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647031342/principef/Frame_17_oa9rxv.png",
+    "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647031343/principef/Frame_18_iuporm.png",
+    "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647031348/principef/Frame_19_b8t0js.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Pose For It Tee",
+    "precio": 45.00,
+    "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647031348/principef/Frame_20_wmrr6i.png",
+    "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647031349/principef/Frame_21_zjyqzc.png",
+    "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647031343/principef/Frame_22_rcplh8.png"
   }
+  
+]
+}
