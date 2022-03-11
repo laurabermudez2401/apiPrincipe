@@ -2,59 +2,34 @@
     "produts": [
       {
         "id": 1,
-        "nombre": "Camiseta Blu E",
-        "precio": 10.5,
-        "precioInicial": 13.2,
-        "descuento": "-33%",
-        "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640880855/WorkShop1/camiseta-blue-e.jpg"
+        "nombre": "Crown Sweatshirt",
+        "precio": 80.00,
+        "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647032285/principef/mas/imgs_vpe1d5.png"
       },
       {
         "id": 2,
-        "nombre": "Fresh",
-        "precio": 10.5,
-        "precioInicial": "13.2",
-        "descuento": "-33%",
-        "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640880896/WorkShop1/fresh.jpg"
+        "nombre": "Fresh Stripe Sweater",
+        "precio": 85.00,
+        "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647031347/principef/Frame_14_rvgoai.png",
+        "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647031345/principef/Frame_15_jxuyhy.png",
+        "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647031346/principef/Frame_16_fdhsrz.png"
       },
       {
         "id": 3,
-        "nombre": "Outfit 3",
-        "precio": 10.5,
-        "precioInicial": 13.2,
-        "descuento": "-33%",
-        "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640880944/WorkShop1/outfit-3.jpg"
+        "nombre": "Fresh Black Tie-Dye Hoodie",
+        "precio": 75.00,
+        "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647031342/principef/Frame_17_oa9rxv.png",
+        "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647031343/principef/Frame_18_iuporm.png",
+        "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647031348/principef/Frame_19_b8t0js.png"
       },
       {
         "id": 4,
-        "nombre": "Outfit 4",
-        "precio": 10.5,
-        "precioInicial": 13.2,
-        "descuento": "-33%",
-        "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640880977/WorkShop1/outfit-4.jpg"
-      },
-      {
-        "id": 5,
-        "nombre": "Outfit 5",
-        "precio": 10.5,
-        "precioInicial": 13.2,
-        "descuento": "-33%",
-        "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640881004/WorkShop1/outfit-5.jpg"
-      },
-      {
-        "id": 6,
-        "nombre": "H/M",
-        "precio": 10.5,
-        "precioInicial": 13.2,
-        "descuento": "-33%",
-        "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640881027/WorkShop1/hym.jpg"
-      },
-      {
-        "id": 7,
-        "nombre": "2x1",
-        "precio": 10.5,
-        "precioInicial": 13.2,
-        "descuento": "-33%",
-        "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640881044/WorkShop1/2x1.jpg"
+        "nombre": "Pose For It Tee",
+        "precio": 45.00,
+        "image1": "https://res.cloudinary.com/lau2401/image/upload/v1647031348/principef/Frame_20_wmrr6i.png",
+        "image2": "https://res.cloudinary.com/lau2401/image/upload/v1647031349/principef/Frame_21_zjyqzc.png",
+        "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647031343/principef/Frame_22_rcplh8.png"
       }
+      
     ]
   }
