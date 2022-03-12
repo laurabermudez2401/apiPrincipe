@@ -1,4 +1,5 @@
-{"produts": [
+{
+  "produts": [
   {
     "id": 1,
     "nombre": "Crown Sweatshirt",
@@ -32,5 +33,16 @@
     "image3": "https://res.cloudinary.com/lau2401/image/upload/v1647031343/principef/Frame_22_rcplh8.png"
   }
   
+],
+
+"compras": [
+  {
+    "id": "",
+    "fechaCompra": "",
+    "idArticulo": "",
+    "talla": "",
+    "correo": ""
+  }
 ]
+
 }
